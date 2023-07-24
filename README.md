@@ -1,3 +1,9 @@
+# Keeper - React
+
+A application to keep notes just like google keep using React, Material UI and Firebase.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
