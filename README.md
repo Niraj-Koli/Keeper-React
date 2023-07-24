@@ -2,6 +2,10 @@
 
 A application to keep notes just like google keep using React, Material UI and Firebase.
 
+![1](https://github.com/Niraj-Koli/Keeper-React/assets/113058131/32b41cef-c4cf-4680-9b0f-3dcaa13c44fa)
+![2](https://github.com/Niraj-Koli/Keeper-React/assets/113058131/acdac41e-f8df-44c3-aab9-b4e6d9f5bbba)
+![3](https://github.com/Niraj-Koli/Keeper-React/assets/113058131/06cdfb17-7660-4422-89e8-40413f9be67e)
+![4](https://github.com/Niraj-Koli/Keeper-React/assets/113058131/d5a82e72-e481-4ec5-90cf-254d7396906e)
 
 
 # Getting Started with Create React App
